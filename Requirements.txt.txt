@@ -1,0 +1,21 @@
+In this project, you will build a regression model using the Keras library to model the same data about concrete compressive strength that we used in labs 
+
+ Concrete Data:
+
+For your convenience, the data can be found here again: 
+https://cocl.us/concrete_data 
+. the predictors in the data of concrete strength include:
+
+Cement
+
+Blast Furnace Slag
+
+Fly Ash
+
+Water
+
+Superplasticizer
+
+Coarse Aggregate
+
+Fine Aggregate
